@@ -4,6 +4,7 @@
 ### Pasos previos 
 
 * Instalar la versión 2019.3.14f1 de Unity
+* Obtener la clave para realizar llamadas al API en https://cloud.google.com/maps-platform?hl=es 
 * Si se desea hacer debug en el teléfono Android descargar de Play Store Unity Remote 5
 
 ### Creación del programa
