@@ -289,13 +289,6 @@ namespace
 
             return token;
         }
-
-        public void RunStep()
-        {
-            DownloadRecordings();
-            Globals.LogPerformance("DownloadRecordings");
-        }
-
     }
 }
 ```
